@@ -24,14 +24,3 @@ router
 router.get("/logout", userController.logout);
 
 module.exports = router;
-
-// stu
-
-// Newuser
-// user1
-
-//user2
-//user2@password
-
-//user3
-//user3@pass
